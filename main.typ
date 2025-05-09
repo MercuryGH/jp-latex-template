@@ -59,13 +59,13 @@
 
 == 数字
 
-#ruby[yiag|no|da|di|ngou|lag|sid|boi|gao|dab][一|二|三|四|五|六|七|八|九|十] 
+#ruby[yiag|no|da|di|ngou|lag|sid|boi|gao|dab][一|二|三|四|五|六|七|八|九|十]
 
 == 久久不见久久见
 
 #ruby[gu|gu|bu|gi][久|久|不|见]久久见
 
-久久#ruby[dio][相]见#ruby[na][_才_]#ruby[u|vi][有|味] #lyrics-space  阿#ruby[mue][妹]哎 
+久久#ruby[dio][相]见#ruby[na][_才_]#ruby[u|vi][有|味] #lyrics-space  阿#ruby[mue][妹]哎
 
 #ruby[hho][好]久不见#ruby[zin][真]#ruby[dio][想]见 #lyrics-space 阿妹哎
 
@@ -174,7 +174,7 @@
 
 #ruby[hang][_从_]#ruby[hao][头]#ruby[vu][毋]#ruby[ai][爱]#ruby[do][装]#ruby[lo][罗]
 
-#ruby[ddiang][谁]#ruby[ga][敢]#ruby[ge][嫁]吾#ruby[do][做]#ruby[lao][老]#ruby[po][婆]
+#ruby[ddiang][_谁_]#ruby[ga][敢]#ruby[ge][嫁]吾#ruby[do][做]#ruby[lao][老]#ruby[po][婆]
 
 #ruby[di][世]#ruby[zio][上]#ruby[yiu][又]#ruby[u][有]#ruby[na][哪]#ruby[mo][_枚_]
 
@@ -198,7 +198,7 @@
 
 #strong[女] #ruby[mi][乜]#ruby[ddou][都]#ruby[vo][毋]#ruby[so][_用_]吾#ruby[do][做]
 
-#strong[合] 吾#ruby[nang][人]#ruby[yiak][一]#ruby[se][_起_]#ruby[lai][来]#ruby[sio][笑]#ruby[go][歌]
+#strong[合] 吾#ruby[nang][人]#gunyomi("侬")#ruby[yiak][一]#ruby[se][_起_]#ruby[lai][来]#ruby[sio][唱]#ruby[go][歌]
 
 #strong[女] #ruby[hia][听]#ruby[hi][起]#ruby[se][似]似毋错
 
@@ -208,13 +208,13 @@
 
 #strong[男] 嫁去吾毋会错
 
-#strong[女] 乜都毋用吾擭
+#strong[女] 乜都毋_用_吾擭
 
-#strong[男] 乜#ruby[se][事]毋用汝#ruby[id][忆]#ruby[ziog][着]
+#strong[男] 乜#ruby[se][事]毋用汝#ruby[id][忆]#ruby[dio][想]
 
 #strong[女] 听起似似毋错
 
-#strong[合] #ruby[hue][快]#ruby[ve][马]#ruby[ddiam][点]#ruby[ziab][汁]#ruby[bai][拜]#ruby[do][_堂_]
+#strong[合] #ruby[hue][快]#ruby[ve][马]#ruby[ddiam][点]#ruby[ziab][汁]#ruby[bai][拜]#ruby[do][堂]
 
 #strong[男] 汝就是吾#ruby[mo][_妚_]老婆
 
@@ -246,7 +246,7 @@
 
 _变字形_的文字是训读词、固有词或为押韵而变音的词。如果是训读汉字词，会尽量在后续的括号中写出本字，但不确定的本字之后会使用 \* 号示意。例如：
 
-#ruby[na][_那_]#ruby[gu][_样_]#ruby[di][_的_]#gunyomi("只*顾是")，意为 gu di 基本可以确定为训读汉字“顾是”，但 na 为固有词的可能性仍相当高。
+#ruby[na][_那_]#ruby[gu][_样_]#ruby[di][_的_]#gunyomi("只*顾是")，意为 gu di 基本可以确定为汉字“顾是”，但 na 为固有词的可能性仍相当高。
 
 以下字词不会标注变化：
 
